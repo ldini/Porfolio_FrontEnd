@@ -1,0 +1,16 @@
+.foto-perfil{
+    height: 200px;
+    width: 200px;
+    -webkit-box-shadow: 9px 13px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 13px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 9px 13px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    margin-top: -30%;
+
+}
+
+.info{
+    margin-top: 20px;
+}

@@ -1,0 +1,17 @@
+.component-header{
+    background-color: black;
+    height: 100px;
+}
+
+.component-header img{
+    height: 90%;
+}
+
+.logo{
+    
+}
+
+.logo img{
+    height: 50px;
+    margin-top: 25px;
+}
