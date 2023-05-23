@@ -1,17 +1,28 @@
 .component-header{
     background-color: black;
-    height: 100px;
+    height: 50px;
 }
 
 .component-header img{
-    height: 90%;
-}
-
-.logo{
-    
-}
-
-.logo img{
     height: 50px;
-    margin-top: 25px;
+    display:inline-block;
+}
+
+.img-info img{
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+
+.login {
+    color: aliceblue;
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+  }
+
+.login a {
+    border: 1px aliceblue solid;
+    
 }
